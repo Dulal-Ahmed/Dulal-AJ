@@ -14,6 +14,9 @@
     .font-shalimar{
         font-family: 'Shalimar', cursive;
     }
-
+   .paddix{
+     padding-left: 5%;
+     padding-right: 5%;
+   }
 
 }
